@@ -5,4 +5,4 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)]()
 [![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20Windows-lightgrey)]()
-[![Language](https://img.shields.io/badge/language-ShellScript%2B%2B%20%7C%20Python-orange)]()
+[![Language](https://img.shields.io/badge/language-ShellScript%20%7C%20Python-orange)]()
